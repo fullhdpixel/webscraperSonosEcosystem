@@ -1,0 +1,39 @@
+{
+  "name": "sonosecoscraper",
+  "version": "1.0.0",
+  "description": "Scrapes any input website for terms related to Sonos and displays a table of the total count of ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhdpixel/webscraperSonosEcosystem.git"
+  },
+  "keywords": [
+    "Sonos",
+    "Consumer",
+    "Electronics",
+    "Home",
+    "Audio",
+    "Systems",
+    "Wireless",
+    "Technology",
+    "Music",
+    "Service",
+    "Ecosystem",
+    "Analysis",
+    "Home",
+    "Automation"
+  ],
+  "author": "Thijs Smudde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullhdpixel/webscraperSonosEcosystem/issues"
+  },
+  "homepage": "https://github.com/fullhdpixel/webscraperSonosEcosystem#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
