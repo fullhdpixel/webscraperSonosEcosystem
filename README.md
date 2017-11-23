@@ -1,10 +1,9 @@
-# webscraperSonosEcosystem
+# Webscraper SONOS Ecosystem
 Scraping for terms related to SONOS and its partners
 
-How should it work:
-- Start with wikipedia: https://en.wikipedia.org/wiki/Sonos
-- Find all links in the wiki article
-- Select which links are useful
-- Continue with new wikipedia pages
+- Finds all record labels for Sony, Universal
+- Finds all streaming partners
 
-- Record labels
+## todo
+
+- Extract virtual assistants from wikipedia page (name, developer, IoT (yes/no))

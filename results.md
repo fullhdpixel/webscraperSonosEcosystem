@@ -1,4 +1,4 @@
-# Sonos
+# Sonos partners
 
 [ 'Apple Music',
   'Pandora',
