@@ -24,8 +24,3 @@ rp(options)
   .catch((err) => {
     console.log(err);
   });
-
-//Alle links met /wiki/
-//Daarvan de title attribute
-
-// $(".logo-grid").a img alt

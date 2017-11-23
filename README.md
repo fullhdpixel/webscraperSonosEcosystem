@@ -6,3 +6,5 @@ How should it work:
 - Find all links in the wiki article
 - Select which links are useful
 - Continue with new wikipedia pages
+
+- Record labels
